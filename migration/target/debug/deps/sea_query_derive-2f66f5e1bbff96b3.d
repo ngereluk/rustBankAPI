@@ -1,0 +1,9 @@
+/Users/natalie/Desktop/rustmar27/migration/target/debug/deps/libsea_query_derive-2f66f5e1bbff96b3.dylib: /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/lib.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/error.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_attr.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_path.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_variant.rs
+
+/Users/natalie/Desktop/rustmar27/migration/target/debug/deps/sea_query_derive-2f66f5e1bbff96b3.d: /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/lib.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/error.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_attr.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_path.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_variant.rs
+
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/lib.rs:
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/error.rs:
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_attr.rs:
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_path.rs:
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_variant.rs:

@@ -1,0 +1,11 @@
+/Users/natalie/Desktop/rustmar27/migration/target/debug/deps/libaliasable-7d1662828de1eb87.rmeta: /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/lib.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/mut_ref.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/boxed.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/string.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/vec.rs
+
+/Users/natalie/Desktop/rustmar27/migration/target/debug/deps/libaliasable-7d1662828de1eb87.rlib: /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/lib.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/mut_ref.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/boxed.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/string.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/vec.rs
+
+/Users/natalie/Desktop/rustmar27/migration/target/debug/deps/aliasable-7d1662828de1eb87.d: /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/lib.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/mut_ref.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/boxed.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/string.rs /Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/vec.rs
+
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/lib.rs:
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/mut_ref.rs:
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/boxed.rs:
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/string.rs:
+/Users/natalie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/vec.rs:
